@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# US High School Participation in popular sports (2002 - 2018) | Data Visualization: d3.js v7, React
+Here, I'm visualizing trends of participation in popular sports in US High schools across nation.
+
+- React 
+- D3 line, symbol, path
+- Topology data
+- Hexmap
+
+## A Snippet
+
+https://user-images.githubusercontent.com/38870742/179445299-2636c635-b8b3-4c4a-ab75-4ce721b3c950.mov
+
+## Data
+National Federation of State High School Associations (NFHS)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
